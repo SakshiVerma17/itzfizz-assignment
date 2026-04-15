@@ -128,16 +128,15 @@ body {
   z-index: 2;
 }
 
-/* 🚗 CAR (FIXED PERFECT ALIGNMENT) */
 .car {
   position: absolute;
-  top: 50%;               /* SAME AS TEXT */
+  top: 50%;               
   left: 0;
-  transform: translateY(-50%); /* SAME CENTER ALIGN */
+  transform: translateY(-50%); 
   width: 240px;
-  z-index: 3;
+  z-index: 10;
 }
 
 .car {
-  top: calc(50% + 5px); /* tweak +5 / -5 px */
+  top: calc(50% + 5px); 
 }
