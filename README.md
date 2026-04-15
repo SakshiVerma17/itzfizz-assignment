@@ -76,27 +76,6 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your deployed link here - Netlify/Vercel)
-
----
-
-## 📸 Preview
-
-(Add screenshot here if needed)
-
----
-
-## 🚀 Deployment
-
-You can deploy easily using:
-
-* Netlify
-* Vercel
-
----
-
 ## 🙌 Author
 
 **Sakshi Verma**
